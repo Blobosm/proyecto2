@@ -1,0 +1,46 @@
+body{
+    font-family:sans-serif;
+    background-color: #404447
+}
+.contenedor{
+    height: 700px;
+    width: 100%;
+}
+.contenedormenu{
+    width: 20%;
+    color: #ffffff;
+    float: left;
+}
+.contenedorcolores{
+    height: 700px;
+    width: 80%;
+    float: right;
+}
+.texto{
+    color: #ffffff;
+    font-size: small;
+}
+.texto:hover{
+    color: fuchsia;
+    font-size: small;
+}
+.contenedorcyan{
+    height: 25%;
+    width: auto;
+    background-color: cyan;
+}
+.contenedoramarillo{
+    height: 25%;
+    width: auto;
+    background-color: yellow;
+}
+.contenedornaranja{
+    height: 25%;
+    width: auto;
+    background-color: orange;
+}
+.contenedorrojo{
+    height: 25%;
+    width: auto;
+    background-color: red;
+}
